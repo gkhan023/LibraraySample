@@ -39,4 +39,8 @@ public class CalculateFormulae {
         }
         return result / numbers.size();
     }
+
+    private static void sampleMethodLibrarayUpgrade() {
+
+    }
 }
